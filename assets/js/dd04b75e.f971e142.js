@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrender_website=globalThis.webpackChunkrender_website||[]).push([[1672],{3024(t){t.exports=JSON.parse('{"authors":[{"name":"hanotak","url":"https://github.com/panthuncia","socials":{"github":"https://github.com/panthuncia"},"key":"panthuncia","page":null,"count":1}]}')}}]);
