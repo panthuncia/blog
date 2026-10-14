@@ -23,7 +23,7 @@
 <h1>Skyrim-specific projects</h1>
 <p>On top of these libraries, I've been working on several Skyrim-related things, starting with:</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="skyrim-advanced-rendering-project-sarp">Skyrim Advanced Rendering Project (SARP)<a href="https://panthuncia.github.io/blog/2026/10/13/project-terminology-overview/Various%20Projects/#skyrim-advanced-rendering-project-sarp" class="hash-link" aria-label="Direct link to Skyrim Advanced Rendering Project (SARP)" title="Direct link to Skyrim Advanced Rendering Project (SARP)" translate="no">​</a></h2>
-<p>This is my testing ground for experimenting with advanced topics in computer graphics, with the guiding focus of "what if we wanted to be able to stream Skyrim's world at any cell radius seamlessly, up to and including having the entire Skyrim map loaded at once? How would such a system need to be designed, and how performant can it be?". This has helped me experiment with and optimize topics such as:</p>
+<p>This is my testing ground for experimenting with advanced topics in computer graphics, with the guiding focus of "what if we wanted to be able to stream Skyrim's world at any cell radius seamlessly, up to and including having the entire Skyrim map loaded at once, while also eliminating all of the geometry and texturing limitations Skyrim has? How would such a system need to be designed, and how performant can it be?". This has helped me experiment with and optimize topics such as:</p>
 <ul>
 <li class="">GPU-driven rendering</li>
 <li class="">Virtualized geometry</li>
