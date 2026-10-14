@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkrender_website=globalThis.webpackChunkrender_website||[]).push([[7472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Fixing Skyrim\'s render pipeline (drawcall limit fix)","permalink":"/blog/fixing-skyrims-render-pipeline","unlisted":false,"date":"2026-10-09T00:00:00.000Z"}]}')}}]);
